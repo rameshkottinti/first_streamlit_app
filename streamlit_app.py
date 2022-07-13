@@ -1,8 +1,6 @@
 import streamlit
 
-streamlit.title('Welcome to StreamLit')
-
-streamlit.header('Snowflake')
-
-streamlit.title('India')
-streamlit.title('Telangana, AP')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
